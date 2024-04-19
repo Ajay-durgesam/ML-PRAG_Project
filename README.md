@@ -33,15 +33,19 @@ We will apply different ML Algorithms and compare their accuracies.These include
 
 #### Decision Tree
 Mainly used for classification and regression tasks, providing a visual and interpretable representation of decision-making processes.
+![image](https://github.com/Ajay-durgesam/ML-PRAG_Project/assets/114494331/58601ec5-0a78-4d9f-b855-5bb288ccd4bd)
 
 #### Support Vector Machine (SVM)
 Primarily employed for classification tasks, aiming to find an optimal hyperplane for effective separation.
+![image](https://github.com/Ajay-durgesam/ML-PRAG_Project/assets/114494331/55e17e35-57f6-4420-a439-0fe3bbb28eed)
 
 #### K-Nearest Neighbors (KNN)
 Mainly employed for classification and regression tasks, relying on the proximity of data points in the feature space to make predictions.
+![image](https://github.com/Ajay-durgesam/ML-PRAG_Project/assets/114494331/9ace09a4-a6f0-4113-b4b8-a500e1bf00cf)
 
 #### Gaussian Naive Bayes
 Commonly utilized for classification tasks, also in natural language processing and spam filtering, assuming independence between features.
+![image](https://github.com/Ajay-durgesam/ML-PRAG_Project/assets/114494331/33ec61ba-5138-4cb7-a26e-9f19d49f4acc)
 
 ### Hyperparameter Tuning
 In this phase,we will systematically explore various hyperparameter configurations for each machine learning algorithm to optimize their performance. This involves leveraging techniques such as grid search or random search to find the most suitable hyperparameter values, enhancing the models' effectiveness in making accurate predictions.
